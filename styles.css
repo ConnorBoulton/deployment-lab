@@ -21,11 +21,17 @@ header {
 #bunny-container {
     display: flex;
     align-items: center;
-    justify-content: center;
     padding: 20px;
+    flex-direction: row;
+    justify-content: space-evenly;
 }
 
 #bunny-pic {
+    height: 350px;
+    width: 450px;
+}
+
+#bunny-pic2 {
     height: 350px;
     width: 450px;
 }
