@@ -1,0 +1,31 @@
+* {
+    margin: 0px;
+}
+
+header {
+    color: #FF934F;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #A9CBB7;
+    height: 100px;
+    border: 2px solid black;
+}
+
+#bunny {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#bunny-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+#bunny-pic {
+    height: 350px;
+    width: 450px;
+}
