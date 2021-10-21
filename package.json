@@ -12,5 +12,14 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConnorBoulton/deployment-lab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ConnorBoulton/deployment-lab/issues"
+  },
+  "homepage": "https://github.com/ConnorBoulton/deployment-lab#readme"
 }
